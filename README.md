@@ -5,7 +5,7 @@ Predicción de incumplimiento crediticio en préstamos personales: aplicación d
 
 ## Índice de Código Python
 
-1. [Preparación de Datos](./1.%20TESIS%20DE%20INVESTIGACION%20-%20PREPARACIÓN%20DE%20DATOS.ipynb)   
+1. [Preparación de Datos](./1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Preparación%20de%20los%20datos.ipynb)
 2. [Técnicas de Balanceo de Datos](./3.%20TESIS%20DE%20INVESTIGACION%20-%20TECNICAS%20DE%20BALANCEO%20DE%20DATOS.ipynb)
 3. Aplicación de Algoritmos
    - [Regresión Logística](./4.%20TESIS%20DE%20INVESTIGACION%20-%20REGRESION%20LOGISTICA.ipynb)
