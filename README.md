@@ -13,7 +13,7 @@ Predicción de incumplimiento crediticio en préstamos personales: aplicación d
    - [XGBoost](./8.%20TESIS%20DE%20INVESTIGACION%20-%20XGBOOST.ipynb) Aplicación de distintas técnicas de balanceos de datos seleccionadas, búsqueda de hiperparámetros, validación de los hiperparámetros (cross validation e incorporación de nuevos datos).
    - [Gradient Boosting Classifier](./6.%20TESIS%20DE%20INVESTIGACION%20-%20RANDOM%20FOREST.ipynb) Aplicación de distintas técnicas de balanceos de datos seleccionadas, búsqueda de hiperparámetros, validación de los hiperparámetros (cross validation e incorporación de nuevos datos).
    - [LightGBM](./6.%20TESIS%20DE%20INVESTIGACION%20-%20RANDOM%20FOREST.ipynb) Aplicación de distintas técnicas de balanceos de datos seleccionadas, búsqueda de hiperparámetros, validación de los hiperparámetros (cross validation e incorporación de nuevos datos).
-4. [Comparación de Resultados](./10.%20TESIS%20DE%20INVESTIGACION%20-%20COMPARACIÓN%20DE%20RESULTADOS.ipynb)
+4. [Comparación de Resultados](./3.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Comparación%20de%20Resultados.ipynb)
 5. [Análisis de la Importancia de Características mediante Métodos Basados en el Modelo y SHAP](./9.%20TESIS%20DE%20INVESTIGACION%20-%20PREPARACIÓN%20DE%20DATOS%20(NUEVOS%20DATOS).ipynb)
 6. Experimentación adicionales a los modelos
    - [Partición del conjunto de datos (préstamos personales a tasa variable y préstamos personales a tasa fija](./2.1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Regresión%20Logística.ipynb)
