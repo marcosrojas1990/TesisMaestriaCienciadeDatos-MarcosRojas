@@ -7,7 +7,7 @@ Predicción de incumplimiento crediticio en préstamos personales: aplicación d
 
 1. [Preparación de Datos](./1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Preparación%20de%20los%20datos.ipynb)
 2. Aplicación de Algoritmos
-   - [Regresión Logística](./2.1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Regresión%20Logística.ipynb)
+   - [Regresión Logística](./2.1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Regresión%20Logística.ipynb) Distintas técnicas de balanceos de datos, búsqueda de hiperparámetros, validación de los hiperparámetros (cross validation e incorporación de nuevos datos).
    - [Redes Neuronales](./7.%20TESIS%20DE%20INVESTIGACION%20-%20REDES%20NEURONALES.ipynb)
    - [Random Forest](./5.%20TESIS%20DE%20INVESTIGACION%20-%20ARBOLES%20DE%20DECISION.ipynb)
    - [XGBoost](./8.%20TESIS%20DE%20INVESTIGACION%20-%20XGBOOST.ipynb)
