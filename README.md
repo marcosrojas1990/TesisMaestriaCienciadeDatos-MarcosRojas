@@ -24,7 +24,7 @@ Predicción de incumplimiento crediticio en préstamos personales: aplicación d
 
 Otros códigos adicionales 
 
-7.[Ingeniería de Características](./2.%20TESIS%20DE%20INVESTIGACION%20-%20INGENIERIA%20DE%20CARACTERISTICAS.ipynb)
+7.[Ingeniería de Características](./7.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Ingeniería%20de%20Características.ipynb)
 
 8.[Preparación del nuevo set de datos para validación de algoritmos](./8.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Preparación%20del%20nuevo%20set%20de%20datos%20para%20validación%20de%20los%20algoritmos.ipynb)
 
