@@ -9,9 +9,10 @@ Predicción de incumplimiento crediticio en préstamos personales: aplicación d
 2. Aplicación de Algoritmos
    - [Regresión Logística](./2.1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Regresión%20Logística.ipynb)
    - [Redes Neuronales](./7.%20TESIS%20DE%20INVESTIGACION%20-%20REDES%20NEURONALES.ipynb)
-   - [Árboles de Decisión](./5.%20TESIS%20DE%20INVESTIGACION%20-%20ARBOLES%20DE%20DECISION.ipynb)
+   - [Random Forest](./5.%20TESIS%20DE%20INVESTIGACION%20-%20ARBOLES%20DE%20DECISION.ipynb)
    - [XGBoost](./8.%20TESIS%20DE%20INVESTIGACION%20-%20XGBOOST.ipynb)
-   - [Random Forest](./6.%20TESIS%20DE%20INVESTIGACION%20-%20RANDOM%20FOREST.ipynb)
+   - [Gradient Boosting Classifier](./6.%20TESIS%20DE%20INVESTIGACION%20-%20RANDOM%20FOREST.ipynb)
+   - [LightGBM](./6.%20TESIS%20DE%20INVESTIGACION%20-%20RANDOM%20FOREST.ipynb)
 4. [Comparación de Resultados](./10.%20TESIS%20DE%20INVESTIGACION%20-%20COMPARACIÓN%20DE%20RESULTADOS.ipynb)
 5. [Análisis de la importancia de características](./9.%20TESIS%20DE%20INVESTIGACION%20-%20PREPARACIÓN%20DE%20DATOS%20(NUEVOS%20DATOS).ipynb)
 6. Experimentación adicionales a los modelos
