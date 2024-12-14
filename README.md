@@ -14,7 +14,7 @@ Predicción de incumplimiento crediticio en préstamos personales: aplicación d
    - [Random Forest](./6.%20TESIS%20DE%20INVESTIGACION%20-%20RANDOM%20FOREST.ipynb)
 4. [Comparación de Resultados](./10.%20TESIS%20DE%20INVESTIGACION%20-%20COMPARACIÓN%20DE%20RESULTADOS.ipynb)
 5. [Análisis de la importancia de características](./9.%20TESIS%20DE%20INVESTIGACION%20-%20PREPARACIÓN%20DE%20DATOS%20(NUEVOS%20DATOS).ipynb)
-6. [Experimentación adicionales a los modelos]
+6. Experimentación adicionales a los modelos
    -[Partición del conjunto de datos (préstamos personales a tasa variable y préstamos personales a tasa fija](./9.%20TESIS%20DE%20INVESTIGACION%20-%20PREPARACIÓN%20DE%20DATOS%20(NUEVOS%20DATOS).ipynb)
    -[Incorporación de una nueva macroecónomica variable en el conjunto de datos original](./9.%20TESIS%20DE%20INVESTIGACION%20-%20PREPARACIÓN%20DE%20DATOS%20(NUEVOS%20DATOS).ipynb)
 
