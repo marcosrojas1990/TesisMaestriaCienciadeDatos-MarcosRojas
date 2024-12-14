@@ -26,6 +26,6 @@ Otros códigos adicionales
 
 7.[Ingeniería de Características](./2.%20TESIS%20DE%20INVESTIGACION%20-%20INGENIERIA%20DE%20CARACTERISTICAS.ipynb)
 
-8.[Preparación del nuevo set de datos para validación de algoritmos](./3.%20TESIS%20DE%20INVESTIGACION%20-%20TECNICAS%20DE%20BALANCEO%20DE%20DATOS.ipynb)
+8.[Preparación del nuevo set de datos para validación de algoritmos](./8.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Preparación%20del%20nuevo%20set%20de%20datos%20para%20validación%20de%20los%20algoritmos.ipynb)
 
 8.[Técnicas de Balanceo de Datos a todo el conjunto de datos](./3.%20TESIS%20DE%20INVESTIGACION%20-%20TECNICAS%20DE%20BALANCEO%20DE%20DATOS.ipynb)
