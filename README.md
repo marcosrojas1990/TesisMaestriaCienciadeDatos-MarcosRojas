@@ -3,7 +3,7 @@
 Predicción de incumplimiento crediticio en préstamos personales: aplicación de aprendizaje automático supervisado en entidades bancarias.
 
 
-## Índice de Código Python
+## Índice de Código Fuente
 
 1. [Preparación de Datos e Ingeniería de Características](./1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Preparación%20de%20los%20datos.ipynb)
 2. Aplicación de Algoritmos
