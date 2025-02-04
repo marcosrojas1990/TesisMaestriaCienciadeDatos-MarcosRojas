@@ -5,7 +5,7 @@ Predicción de incumplimiento crediticio en préstamos personales: aplicación d
 
 ## Índice de Código Python
 
-1. [Preparación de Datos](./1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Preparación%20de%20los%20datos.ipynb)
+1. [Preparación de Datos e Ingeniería de Características](./1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Preparación%20de%20los%20datos.ipynb)
 2. Aplicación de Algoritmos
    - [Regresión Logística](./2.1.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Regresión%20Logística.ipynb) Aplicación de distintas técnicas de balanceos de datos seleccionadas, búsqueda de hiperparámetros, validación de los hiperparámetros (cross validation e incorporación de nuevos datos).
    - [Random Forest](./2.2.%20Tesis%20Maestría%20de%20Ciencia%20de%20Datos%20-%20Random%20Forest.ipynb) Aplicación de distintas técnicas de balanceos de datos seleccionadas, búsqueda de hiperparámetros, validación de los hiperparámetros (cross validation e incorporación de nuevos datos).
